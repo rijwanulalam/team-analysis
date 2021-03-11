@@ -1,0 +1,19 @@
+.header{
+    background: linear-gradient(30deg, rgba(29, 29, 34, 0.7), rgba(81, 82, 89, 0.727)) , url('../../assets/header.jpg') no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 250px;
+    text-align: center;
+
+}
+h1{
+    color: rgba(226, 221, 221, 0.816);
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
+img{
+    width: 200px;
+    
+    padding-top: 2%;
+}

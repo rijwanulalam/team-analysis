@@ -1,0 +1,7 @@
+
+.MuiCardActions-root {
+    display: block !important;
+    padding: 8px;
+    text-align: center;
+    align-items: center;
+}
